@@ -1,0 +1,2 @@
+body {display: flex;justify-content: center;align-items: center;height: 100vh;margin: 0;background: #222;font-family: 'Montserrat', sans-serif;background-image: url('https://images.unsplash.com/photo-1478760329108-5c3ed9d495a0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8YmFja2dyb3VuZHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60');}
+.card {background: #eaeaea;padding: 2em;border-radius: 30px;width: 100%;max-width: 420px;margin: 1em;}
